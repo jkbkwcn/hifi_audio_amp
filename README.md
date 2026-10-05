@@ -70,3 +70,10 @@ The figures below show measured parameters of the device.
 		<td align="center"><sub>Output spectrum at 25 W power</sub></td>
 	</tr>
 </table>
+
+## Short Presentation
+
+<video width="640" controls>
+  <source src="./img/short_presentation.mp4" type="video/mp4">
+  Twoja przeglądarka nie obsługuje tagu wideo.
+</video>
