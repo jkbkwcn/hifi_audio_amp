@@ -73,7 +73,4 @@ The figures below show measured parameters of the device.
 
 ## Short Presentation
 
-<video width="640" controls>
-  <source src="./img/short_presentation.mp4" type="video/mp4">
-  Twoja przeglądarka nie obsługuje tagu wideo.
-</video>
+https://github.com/user-attachments/assets/b7290924-1c90-42e3-93f9-598fff07b920
